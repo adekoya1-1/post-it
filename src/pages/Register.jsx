@@ -4,7 +4,7 @@ import axios from "axios";
 import { useGlobalContext } from "../context";
 import { useNavigate } from "react-router-dom";
 import '../styles/login.css'
-import join from "../assets/join Postit..png"
+import join from "../assets/join Postit.png"
 import { Link } from "react-router-dom";
 
 const Register = () => {
